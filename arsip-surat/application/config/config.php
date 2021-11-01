@@ -23,8 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/kuliah-kerja-praktek/arsip-surat/';
+$config['base_url'] = 'https://5d6c-114-124-244-253.ngrok.io/kuliah-kerja-praktek/arsip-surat/';
 
+// http://localhost/kuliah-kerja-praktek/arsip-surat/
 /*
 |--------------------------------------------------------------------------
 | Index File
